@@ -3,8 +3,8 @@ const fs = require('fs');
 
 // How many entries you want
 const ENTRIES = 500;
-const firstName = 'John';
-const lastName = 'Biggens';
+const firstName = 'Dan';
+const lastName = 'Hughes';
 // YYYY-MM-DD
 const dateOfBirth = '1984-08-08';
 // What number you want the emails to start on
